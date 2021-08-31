@@ -2,6 +2,9 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 
+{
+  /* Added routes to my app, we can find new pages easily, we can switch pages, pls remember that we switch pages without a server */
+}
 function App() {
   return (
     <Router>
